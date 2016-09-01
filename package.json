@@ -1,0 +1,25 @@
+{
+  "name": "custom-elements",
+  "version": "1.0.0",
+  "description": "testing custom elements",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-csslint": "^1.0.0",
+    "gulp-style-inject": "0.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekshull/custom-elements.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekshull/custom-elements/issues"
+  },
+  "homepage": "https://github.com/derekshull/custom-elements#readme"
+}
