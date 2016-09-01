@@ -7,6 +7,9 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-csslint": "^1.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-scss-lint": "^0.4.0",
+    "gulp-scsslint": "0.0.5",
     "gulp-style-inject": "0.0.3"
   },
   "scripts": {
